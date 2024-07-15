@@ -1,0 +1,17 @@
+
+torchvision
+
+    # General science & ml
+numpy
+scikit-learn
+
+    # Plotting & visualization
+matplotlib
+
+    # Utilities
+tqdm
+rich
+ipython
+ipdb
+jupyterlab
+ipympl
